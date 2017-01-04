@@ -1,0 +1,9 @@
+﻿<Properties StartupConfiguration="{140E3643-F1D2-4594-BB2D-5E89B21E56F5}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.FuncGeneratorGenetic PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
